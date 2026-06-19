@@ -1,8 +1,8 @@
 {
-  "link1": "https://www.youtube.com/",
-  "link2": "https://www.youtube.com/",
-  "link3": "https://www.youtube.com/",
-  "link4": "https://www.youtube.com/",
-  "link5": "https://www.youtube.com/",
-  "link6": "https://www.youtube.com/"
+  "link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQVGNVTY",
+  "link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DM9RYK8C",
+  "link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPBNHLNW",
+  "link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBGFB3HP",
+  "link5": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DDJZTCN7",
+  "link6": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DRGVTDPN"
 }
